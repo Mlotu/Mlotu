@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mlotu
+- 👀 I’m interested in making websites
+- 🌱 I’m currently learning js
